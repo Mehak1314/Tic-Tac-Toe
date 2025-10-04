@@ -31,9 +31,4 @@ Play against your friend in this classic two-player game right in your browser!
 
 ---
 
-## 📂 Run Locally
-```bash
-git clone https://github.com/mehak1314/Tic-Tac-Toe.git
-
----
 Developed by Mehak Garg
